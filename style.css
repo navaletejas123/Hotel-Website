@@ -1,0 +1,55 @@
+.DarkRed {
+    background-color: #ce1212;
+}
+
+.Border-DarkRed {
+    border: 1px solid #ce1212;
+}
+
+.color-DarkRed {
+    color: #ce1212;
+}
+
+.mr-2 {
+    margin-right: 2px;
+}
+
+.book-box {
+    position: relative;
+    bottom: 210px;
+}
+
+.light-red {
+    background-color: #dd5a5a;
+}
+
+.more-light-red {
+    background-color: #fae7e7;
+}
+
+.counter-bg-img {
+    height: 300px !important;
+    opacity: 0.5;
+}
+
+.counter-number {
+    position: relative;
+    bottom: 180px;
+}
+
+.img-grid-nav {
+    text-decoration: none;
+    color: black;
+}
+
+.img-grid-nav:hover {
+    color: red;
+    cursor: pointer;
+}
+
+input[type=text]:focus {
+    border: 1px solid #ce1212;
+}
+textarea[type=text]:focus {
+    border: 1px solid #ce1212;
+}
